@@ -26,7 +26,7 @@ public class DeleteStudent {
 			// Student student = session.get(Student.class, 3217);
 			// System.out.println("get: " + student);
 			//
-			// // delete student
+			// // delete student ...
 			// session.delete(student);
 
 			// delete all students with firstName = 'jjjj'
