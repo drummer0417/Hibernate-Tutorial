@@ -1,4 +1,4 @@
-package nl.androidappfactory.hibernate.demo;
+package nl.androidappfactory.hibernate.demo.student;
 
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
@@ -23,7 +23,7 @@ public class DeleteStudent {
 			session.beginTransaction();
 
 			// get student with id
-			// Student student = session.get(Student.class, 3217);
+			// Student student = session.get(Student.cla ss, 3217);
 			// System.out.println("get: " + student);
 			//
 			// // delete student ...

@@ -1,4 +1,4 @@
-package nl.androidappfactory.hibernate.demo;
+package nl.androidappfactory.hibernate.demo.student;
 
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;

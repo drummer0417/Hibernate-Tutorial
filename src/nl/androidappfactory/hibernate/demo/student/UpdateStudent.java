@@ -1,4 +1,4 @@
-package nl.androidappfactory.hibernate.demo;
+package nl.androidappfactory.hibernate.demo.student;
 
 import java.util.List;
 
